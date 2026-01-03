@@ -1,19 +1,96 @@
-# 💫 About Me:
-Full stack web Developer<br>
+<h1 align="center">Hi 👋, I'm Deepanshu Bhatt</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Clean+Code+%7C+Scalable+Systems;Building+Modern+Web+Applications" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepubhatt.7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepanshu.bhatt@zohomail.in) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepanshu-Bhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deepanshu-Bhatt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Bhatt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepanshu-Bhatt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:deepanshu.bhatt@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-ZohoMail-red?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/deepubhatt.7">
+    <img src="https://img.shields.io/badge/Instagram-@deepubhatt.7-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=flat&logo=vercel"/>
+  </a>
+  <a href="https://your-resume-link.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat&logo=adobeacrobatreader"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deepanshu-Bhatt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+- 💻 Full-Stack Web Developer  
+- 🧠 Strong believer in **simple, readable, maintainable code**
+- ⚡ Focused on **performance, scalability, and UX**
+- 🌱 Constantly learning modern frameworks & system design
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 Portfolio Website
+- Personal developer portfolio
+- Responsive, fast, SEO-optimized  
+🔗 **Live:** https://your-portfolio-link.com
+
+### 🔹 Full-Stack Web App
+- Authentication, database integration
+- Clean REST APIs  
+🔗 **Repo:** https://github.com/Deepanshu-Bhatt/project-name
+
+### 🔹 UI Components Library
+- Reusable UI components
+- Clean & minimal design  
+🔗 **Repo:** https://github.com/Deepanshu-Bhatt/project-name
+
+> ⚠️ Replace links with your real projects (very important)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Bhatt&show_icons=true&theme=dark&hide_border=true"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepanshu-Bhatt&theme=dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Bhatt&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Contributions
+<img src="https://github-contributor-stats.vercel.app/api?username=Deepanshu-Bhatt&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Deepanshu-Bhatt&color=0" />
+</p>
