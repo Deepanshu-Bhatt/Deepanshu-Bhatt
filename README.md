@@ -70,27 +70,15 @@
 - Clean & minimal design  
 🔗 **Repo:** https://github.com/Deepanshu-Bhatt/project-name
 
-> ⚠️ Replace links with your real projects (very important)
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Bhatt&show_icons=true&theme=dark&hide_border=true"/>
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Deepanshu-Bhatt&theme=dark&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Bhatt&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
----
 
-## 🏆 Contributions
-<img src="https://github-contributor-stats.vercel.app/api?username=Deepanshu-Bhatt&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Deepanshu-Bhatt&color=0" />
-</p>
