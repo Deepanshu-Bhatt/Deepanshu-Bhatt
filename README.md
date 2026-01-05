@@ -8,8 +8,8 @@
   <a href="mailto:deepanshu.bhatt@zohomail.in">
     <img src="https://img.shields.io/badge/Email-ZohoMail-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/deepubhatt.7">
-    <img src="https://img.shields.io/badge/Instagram-@deepubhatt.7-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/holm.db">
+    <img src="https://img.shields.io/badge/Instagram-@holm.db-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-Live-black?style=flat&logo=vercel"/>
